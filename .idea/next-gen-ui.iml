@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/step_01/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_01/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_01/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_a/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_a/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_c/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_c/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_02_c/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_a/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_a/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_c/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_c/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03_c/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_a/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_a/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_c/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_c/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_c/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_d/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_d/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_d/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_e/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_e/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_e/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_a/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_a/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
